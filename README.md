@@ -6,7 +6,7 @@ Sistema em Python para gerir estudantes da Universidade Save, substituindo o con
 ## Elementos do Grupo
 
 * Nome Completo 1 (antoniojuniorlanga62)
-* Nome Completo 2 (User)
+* Nome Completo 2 (muiangaantonio717-ctrl)
 * Nome Completo 3 (belinhacassa-wp)
 * Nome Completo 4 (Liriavirgiliom-alt)
 
