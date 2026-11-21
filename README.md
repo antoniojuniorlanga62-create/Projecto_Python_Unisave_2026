@@ -1,5 +1,5 @@
 Projecto_Python_Unisave_2026
-# Sistema de Gestão de Estudantes - Universidade Save
+# Sistema de Gestão de Estudantes - Universidade Save #
 
 Sistema em Python para gerir estudantes da Universidade Save, substituindo o controlo manual em papel. Permite cadastrar estudantes, listar todos os registados, pesquisar por número e guardar os dados de forma persistente em ficheiro JSON, facilitando a consulta rápida de informações académicas como curso, ano e nota final.
 
