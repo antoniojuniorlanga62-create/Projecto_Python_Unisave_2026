@@ -44,6 +44,6 @@ O projecto está organizado num único ficheiro principal com separação lógic
 
 ## Instalação e Execução
 ```bash
-git clone https://github.com/antoniojuniorlanga62/Projecto_Python_Unisave_2026.git
+git clone https://github.com/antoniojuniorlanga62-create/Projecto_Python_Unisave_2026.git
 cd Projecto_Python_Unisave_2026
 python main.py
