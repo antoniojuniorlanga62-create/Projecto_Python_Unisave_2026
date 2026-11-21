@@ -35,7 +35,7 @@ O projecto está organizado num único ficheiro principal com separação lógic
 * `Classe Estudante`: Representa um estudante com os atributos nome, numero, curso, ano e nota, e o método `para_dicionario()` para converter o objeto em dicionário para guardar em JSON
 * `carregar_estudantes()`: Lê os dados do ficheiro `estudantes.json` e devolve a lista de estudantes
 * `salvar_estudantes()`: Guarda a lista de estudantes no ficheiro `estudantes.json` com formatação legível
-* `cadastrar()`, `listar()`, `buscar()`: Funções de negócio que implementam as funcionalidades do sistema
+* `cadastrar()`, `listar()` `buscar()`: Funções de negócio que implementam as funcionalidades do sistema
 * `estudantes.json`: Ficheiro local onde os dados são armazenados de forma persistente
 
 ## Requisitos
